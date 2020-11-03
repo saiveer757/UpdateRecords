@@ -1,7 +1,7 @@
 {
   "name": "Record Change",
   "description": "Heroku Connect Sample App - Phone Change",
-  "repository": "https://github.com/saiveer757/UpdateRecords/blob/main/app.json",
+  "repository": "https://github.com/saiveer757/UpdateRecords",
   "success_url": "/setup.html",
   "env": {
     "PGSSLMODE": {
